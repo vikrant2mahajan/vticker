@@ -3,21 +3,21 @@
   "version": "0.0.1",
   "homepage": "https://github.com/vikrant2mahajan/vticker",
   "authors": [
-    "Vikrant Mahajan"
+  "Vikrant Mahajan"
   ],
   "description": "vTicker for jquery and angular bindings",
-  "main": "jquery.vticker.js",
+  "main": ["jquery.vticker.js","angular.vticker.js"],
   "keywords": [
-    "angular",
-    "vticker",
-    "jquery"
+  "angular",
+  "vticker",
+  "jquery"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+  "**/.*",
+  "node_modules",
+  "bower_components",
+  "test",
+  "tests"
   ]
 }

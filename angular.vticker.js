@@ -20,7 +20,7 @@ app.directive('ticker', function(){
 '$sce',
 function($sce) {
   return function(value, type) {
-    return $sce.trustAs(type || 'html', text);
+    return $sce.trustAs(type || 'html', value);
   }
 }
 ]);

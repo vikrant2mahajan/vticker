@@ -1,6 +1,6 @@
 # VTicker
 
-This project is a fork of original vTicker jQuery plugin implentation by JugBit (MIT Licensed):
+This project is a fork of plugin by [Rich Hollis](http://richhollis.co.uk) who forked original vTicker jQuery plugin implentation by JugBit (MIT Licensed):
 
 http://www.jugbit.com/jquery-vticker-vertical-news-ticker/
 
@@ -14,8 +14,8 @@ Please consider supporting the original author who has a Donate button on their 
 
 Please see the demo site for all documentation and demos:
 
-[![vTicker site](https://raw.github.com/richhollis/vticker/master/vticker.png "vTicker site")](http://richhollis.github.com/vticker/)
+[![vTicker site]](http://richhollis.github.com/vticker/)
 
 ## More About Me
 
-[Rich Hollis](http://richhollis.co.uk)
+Vikrant Mahajan

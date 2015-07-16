@@ -1,4 +1,4 @@
-/* --- Made by justgoscha and licensed under MIT license --- */
+/* --- Made by Vikrant Mahajan and licensed under MIT license --- */
 
 var app = angular.module('vticker', []);
 app.directive('ticker', function(){
@@ -7,7 +7,7 @@ app.directive('ticker', function(){
     scope:{
       ticks:"="
     },
-    template:"<ul><li data-ng-repeat='tick in ticks'>{{tick}}</li></ul>"
+    template:"<ul><li data-ng-repeat='tick in ticks'>{{tick}}</li></ul>",
     link: function(scope, element, attrs, autoCtrl){
       scope.$watch('ticks',function(val){
         if(val){

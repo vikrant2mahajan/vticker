@@ -1,5 +1,10 @@
 # VTicker
 
+This project provides Angular binding directive for vticker
+
+
+
+
 This project is a fork of plugin by [Rich Hollis](http://richhollis.co.uk) who forked original vTicker jQuery plugin implentation by JugBit (MIT Licensed):
 
 http://www.jugbit.com/jquery-vticker-vertical-news-ticker/
